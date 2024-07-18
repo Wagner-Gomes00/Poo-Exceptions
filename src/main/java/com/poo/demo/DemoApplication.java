@@ -11,8 +11,8 @@ public class DemoApplication {
 
 		//Divisao divisao = new Divisao();
 		//divisao.ex1();
-		Menu menu = new Menu();
-		menu.ex2();
+		Nomes nomes = new Nomes();
+		nomes.ex3();
 	}
 
 }
